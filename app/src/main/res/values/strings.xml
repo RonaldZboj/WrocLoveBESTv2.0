@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">WrocLoveBEST</string>
+
+    <!-- Category name for drinking [CHAR LIMIT=20] -->
+    <string name="category_drinking">Drinking</string>
+
+    <!-- Category name for eating [CHAR LIMIT=20] -->
+    <string name="category_eating">Eating</string>
+
+    <!-- Category name for sleeping [CHAR LIMIT=20] -->
+    <string name="category_sleeping">Sleeping</string>
+
+    <!-- Category name for clubbing [CHAR LIMIT=20] -->
+    <string name="category_clubbing">Clubbing</string>
+
+    <!-- DrinkingFragment -->
+
+    <!-- DrinkingFragment ambasada name (not translate) -->
+    <string name="ambasada_wodki_i_piwa">Ambasada Wodki i Piwa</string>
+
+    <!-- DrinkingFragment ambasada description -->
+    <string name="ambasada_wodki_i_piwa_description">All drinks only 5 PLN</string>
+
+    <!-- DrinkingFragment przekręt name (not translate) -->
+    <string name="przekret">Przekręt</string>
+
+    <!-- DrinkingFragment przekret description -->
+    <string name="przekret_description">Best student pub</string>
+
+    <!-- DrinkingFragment 13igiel name (not translate) -->
+    <string name="igly">13 Igieł</string>
+
+    <!-- DrinkingFragment igly description -->
+    <string name="igly_description">Nice pub in basement</string>
+
+    <!-- DrinkingFragment szajba name (not translate) -->
+    <string name="szajba">Szajba</string>
+
+    <!-- DrinkingFragment igly description -->
+    <string name="szajba_description">Hipster clubhouse</string>
+
+    <!-- DrinkingFragment taras bar name (not translate) -->
+    <string name="taras_bar">Taras Bar</string>
+
+    <!-- DrinkingFragment igly description -->
+    <string name="taras_bar_description">Bar on the roof</string>
+
+    <!-- DrinkingFragment siwy_dym name (not translate) -->
+    <string name="siwy_dym">Pub Siwy Dym</string>
+
+    <!-- DrinkingFragment igly description -->
+    <string name="siwy_dym_description">Nice pub with a few others next door</string>
+
+    <!-- DrinkingFragment burger king (not translate) -->
+    <string name="burger_king">Burger King</string>
+
+    <!-- DrinkingFragment burger king description -->
+    <string name="burger_king_description">Not a bar, but you can drink there</string>
+
+    <!-- EatingFragment -->
+
+    <!-- EatingFragment macdonald (not translate) -->
+    <string name="macdonald">MacDonald</string>
+
+    <!-- EatingFragment macdonald description -->
+    <string name="macdonald_description">Fastfood</string>
+
+    <!-- SleepingFragment -->
+
+    <!-- SleepingFragment bbhotel (not translate) -->
+    <string name="bbhotel">B&amp;B Hotel Wrocław</string>
+
+    <!-- SleepingFragment macdonald description -->
+    <string name="bbhotel_description">Good quality at a good price</string>
+
+    <!-- ClubbingFragment -->
+
+    <!-- ClubbingFragment xdemon (not translate) -->
+    <string name="xdemon">X-Demon</string>
+
+    <!-- ClubbingFragment xdemon description -->
+    <string name="xdemon_description">The biggest club in town</string>
+
+</resources>

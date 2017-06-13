@@ -6,7 +6,7 @@
     <!-- Primary dark color of the app (shown in the status bar) -->
     <color name="primary_dark_color">#455A64</color>
     4
-    <!-- Color for drinking fragments -->
+    <!-- Color for fragments -->
     <color name="fragment_color">#607D8B</color>
 
 </resources>
